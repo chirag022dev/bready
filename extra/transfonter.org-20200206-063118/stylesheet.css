@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Lora';
+    src: url('Lora-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Kaushan Script';
+    src: url('KaushanScript-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url('Lora-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url('Lora-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url('Lora-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
